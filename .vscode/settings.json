@@ -1,0 +1,10 @@
+{
+    "cSpell.enableFiletypes": [
+        "!c",
+        "bat",
+        "dart",
+        "django-html",
+        "django-txt",
+        "dockerfile"
+    ]
+}
